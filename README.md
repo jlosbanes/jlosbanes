@@ -19,28 +19,47 @@ Working on real projects while diving deep into how to make things scale and sta
 Learning to build stuff that can handle 100K+ users without breaking.<br/>
 
 #### Core Languages
-[![typescript,python](https://skillicons.dev/icons?i=typescript,python)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org/)
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 
 #### Web Client
-[![nextjs,react,vue,laravel,tailwind,materialui,styledcomponents,bootstrap](https://skillicons.dev/icons?i=nextjs,react,vue,laravel,tailwind,materialui,styledcomponents,bootstrap)](https://skillicons.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Vue](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
+[![Material-UI](https://skillicons.dev/icons?i=materialui)](https://mui.com/)
+[![Styled Components](https://skillicons.dev/icons?i=styledcomponents)](https://styled-components.com/)
+[![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
+
 
 #### API Server
-[![nodejs,mysql,mongodb,prisma,graphql,apollo](https://skillicons.dev/icons?i=nodejs,mysql,mongodb,prisma,graphql,apollo)](https://skillicons.dev)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org/)
+[![Apollo](https://skillicons.dev/icons?i=apollo)](https://www.apollographql.com/)
 
 #### CI/CD
-[![docker,nginx](https://skillicons.dev/icons?i=docker,nginx)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Nginx](https://skillicons.dev/icons?i=nginx)](https://nginx.org/)
 
 #### Blockchain
-[![solidity,ipfs](https://skillicons.dev/icons?i=solidity,ipfs)](https://skillicons.dev)
+[![Solidity](https://skillicons.dev/icons?i=solidity)](https://soliditylang.org/)
+[![IPFS](https://skillicons.dev/icons?i=ipfs)](https://ipfs.tech/)
 
 #### Testing
-[![cypress,jest](https://skillicons.dev/icons?i=cypress,jest)](https://skillicons.dev)
+[![Cypress](https://skillicons.dev/icons?i=cypress)](https://www.cypress.io/)
+[![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 
 #### Currently Learning
-[![go](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
+[![Go](https://skillicons.dev/icons?i=go)](https://go.dev/)
 
 #### Technical Learning Queue
-[![rust,kotlin,flutter](https://skillicons.dev/icons?i=rust,kotlin,flutter)](https://skillicons.dev)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/)
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev/)
 
 #### Non-Technical Curiosities
 - Bartending 🍸
